@@ -1,0 +1,11 @@
+{
+  "title": "SignalNebula",
+  "description": "Processes RF-like samples, extracts signal quality metrics, and produces interference and drift reports.",
+  "suggested_topics": [
+    "space-security",
+    "ai-systems",
+    "research-prototype",
+    "signalnebula"
+  ],
+  "color_theme": "#7c3aed"
+}
